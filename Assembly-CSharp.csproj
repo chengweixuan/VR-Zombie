@@ -54,14 +54,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets/Scripts/ZombieAI.cs" />
-    <Compile Include="Assets/Scripts/Dialogue.cs" />
-    <Compile Include="Assets/Maya/Script/ThirdPerson.cs" />
-    <Compile Include="Assets/Maya/Script/PlayerBasicCode.cs" />
-    <Compile Include="Assets/Maya/Script/NpcAI.cs" />
-    <Compile Include="Assets/Scripts/WalkieTalkie.cs" />
     <Compile Include="Assets/Maya/Script/PlayerMoveCode.cs" />
+    <Compile Include="Assets/Maya/Script/PlayerBasicCode.cs" />
     <Compile Include="Assets/Scripts/GameManager.cs" />
-    <Compile Include="Assets/Scripts/DialogueManager.cs" />
+    <Compile Include="Assets/Maya/Script/ThirdPerson.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

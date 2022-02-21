@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{E66FE136-4398-59C3-2F0D-9C61AA718C9F}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ZombieAI.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
     <Files>
       <File FileName="Assets/Scripts/ZombieAI.cs" Line="28" Column="30" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="23" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,7 +14,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="13003b1c-951d-49e8-aa5e-4531748fe5ef" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="85c12fb9-85ae-4fe8-a12c-cf0a63b9ef64" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
